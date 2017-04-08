@@ -1,4 +1,4 @@
-package R1B;
+package Y2016.R1B.Q1;
 
 import org.junit.Test;
 

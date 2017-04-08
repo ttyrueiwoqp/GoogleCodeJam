@@ -1,8 +1,6 @@
-package R1B;
+package Y2016.R1B.Q2;
 
 import org.junit.Test;
-
-import java.util.*;
 
 public class Q2 {
 
